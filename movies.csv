@@ -1,0 +1,61 @@
+movie,genre,runtime,imdb_rating,user_rating,liked
+The Hangover,Comedy,100,7.7,4.2,0
+Superbad,Comedy,113,7.6,4.0,1
+Free Guy,Comedy,115,7.1,3.8,0
+The Intern,Comedy,121,7.1,4.0,1
+Game Night,Comedy,100,6.9,3.9,1
+Interstellar,Sci-Fi,169,8.7,4.8,1
+Inception,Sci-Fi,148,8.8,4.7,1
+The Martian,Sci-Fi,144,8.0,4.5,0
+Titanic,Romance,195,7.9,4.5,1
+The Notebook,Romance,123,7.8,4.1,1
+La La Land,Romance,128,8.0,4.3,1
+Joker,Thriller,122,8.3,4.4,1
+Gone Girl,Thriller,149,8.1,4.2,0
+A Quiet Place,Thriller,90,7.5,4.0,1
+Toy Story,Animation,81,8.3,4.6,1
+Cars,Animation,117,7.2,3.7,1
+Coco,Animation,105,8.4,4.6,1
+John Wick,Action,101,7.4,4.0,1
+Die Hard,Action,132,8.2,4.5,0
+Mad Max: Fury Road,Action,120,8.1,4.6,0
+Barbie,Comedy,114,6.8,3.9,1
+The Conjuring,Horror,112,7.5,4.1,1
+Avatar,Sci-Fi,162,7.8,4.4,1
+The Dark Knight,Action,152,9.0,4.9,1
+Mean Girls,Comedy,97,7.1,4.0,1
+Shrek,Animation,90,7.9,4.5,1
+Finding Nemo,Animation,100,8.2,4.6,1
+The Avengers,Action,143,8.0,4.4,1
+Black Panther,Action,134,7.3,4.1,1
+Guardians of the Galaxy,Sci-Fi,121,8.0,4.5,1
+The Prestige,Thriller,130,8.5,4.6,1
+Knives Out,Thriller,130,7.9,4.3,1
+Get Out,Horror,104,7.7,4.2,1
+The Pursuit of Happyness,Drama,117,8.0,4.5,1
+Forrest Gump,Drama,142,8.8,4.8,1
+The Truman Show,Drama,103,8.2,4.5,1
+Whiplash,Drama,106,8.5,4.7,1
+The Social Network,Drama,120,7.8,4.2,1
+Paddington,Animation,95,7.2,4.0,1
+How to Train Your Dragon,Animation,98,8.1,4.6,1
+Morbius,Action,104,5.1,2.8,0
+Cats,Animation,110,2.8,2.0,0
+The Mummy,Action,124,5.4,3.0,0
+Fantastic Four,Action,100,4.3,2.7,0
+The Emoji Movie,Animation,86,3.4,2.5,0
+After,Romance,105,5.3,2.9,0
+The Kissing Booth,Romance,105,5.9,3.1,0
+The Nun,Horror,96,5.4,3.0,0
+Transformers: The Last Knight,Action,154,5.2,3.0,0
+Jurassic World: Dominion,Sci-Fi,147,5.6,3.3,0
+Fantastic Beasts: The Secrets of Dumbledore,Fantasy,142,6.2,3.4,0
+The Meg,Action,113,5.7,3.2,0
+Uncharted,Action,116,6.3,3.5,0
+Passengers,Sci-Fi,116,7.0,3.6,0
+The Greatest Showman,Drama,105,7.5,4.0,1
+Inside Out,Animation,95,8.1,4.5,1
+The Incredibles,Animation,115,8.0,4.5,1
+Deadpool,Action,108,8.0,4.3,1
+The Maze Runner,Sci-Fi,113,6.8,3.8,0
+Ready Player One,Sci-Fi,140,7.4,4.0,1
